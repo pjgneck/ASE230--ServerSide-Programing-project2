@@ -1,0 +1,4 @@
+baseURL = 'https://pjgne.github.io/project2/'
+languageCode = 'en-us'
+title = 'Project 2 Documentation'
+theme = 'ananke'
